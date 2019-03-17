@@ -2,8 +2,9 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jayaimzzz.github.io/todos-part1-app/",
+  "homepage": "https://github.com/Namewastook/ToDoPt1git",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
