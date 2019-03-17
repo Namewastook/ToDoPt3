@@ -2,11 +2,13 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://namewastook.github.io/ToDoPt1/",
+  "homepage": "https://namewastook.github.io/ToDoPt2/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-router": "^4.4.0",
+    "react-router-dom": "^4.4.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
