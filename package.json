@@ -2,7 +2,7 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Namewastook/ToDoPt1git",
+  "homepage": "https://namewastook.github.io/ToDoPt1/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
