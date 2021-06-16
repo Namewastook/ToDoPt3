@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://namewastook.github.io/ToDoPt3/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^3.2.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-redux": "^6.0.1",
